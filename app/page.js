@@ -54,7 +54,7 @@ const Home = () => {
         style={{
           left: mousePosition.x - 192,
           top: mousePosition.y - 192,
-          transition: "all 0.3s ease-out",
+          transition: "all 0.1s ease-out",
         }}
       ></div>
 
