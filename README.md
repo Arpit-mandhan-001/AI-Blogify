@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 
-=======
 # AI Creator Platform — Full‑stack AI Content App
 
 A concise tutorial / starter that demonstrates an AI-powered content creation platform built with the **Next.js App Router**, **Convex** for data and server functions, **Clerk** for auth, **ImageKit** for image uploads and delivery, **Google Gemini** (or compatible AI API) for content generation, and **shadcn UI + Tailwind** for the frontend.
